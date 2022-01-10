@@ -6,12 +6,10 @@
 
 
 
-## Steps to reproduce
+## Mise en Place
 
 
-
-(How one can reproduce the issue - this is very important)
-
+![1](https://user-images.githubusercontent.com/57573069/148778658-6cfb3796-3895-43d1-85b6-fbb383523af5.JPG)
 
 
 ## What is the current bug behavior?
