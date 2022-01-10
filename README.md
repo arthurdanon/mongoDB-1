@@ -20,12 +20,14 @@
 ![4](https://user-images.githubusercontent.com/57573069/148778917-80b15519-9d58-4ee3-8c5c-06b4944ddc05.JPG)
 
 -Autorisation des adress IP
+
 ![5](https://user-images.githubusercontent.com/57573069/148778985-99c100ef-c2d4-49c0-9632-52bf96d311bd.JPG)
 
 -Création du cluster
 ![6](https://user-images.githubusercontent.com/57573069/148779002-7d291407-be24-41f5-84b4-9fe955a74494.JPG)
 
 -Connection au cluster
+
 ![7](https://user-images.githubusercontent.com/57573069/148779214-f6b24c50-9028-4ff8-83ce-c42e578c035d.JPG)
 
 -Import dans le BDD (ligne de commande)
